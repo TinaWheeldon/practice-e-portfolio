@@ -8,7 +8,7 @@ function contact(event) {
     emailjs
         .sendForm(
             'service_czvqb4j',
-            'template_5ddb5ks',
+            'template_8k2dmit',
             event.target,
             'bmFK0Jt0V9HRfIjkO'
         ).then(() => {
